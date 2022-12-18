@@ -408,6 +408,6 @@ cursor: pointer;
 border-radius: 10%;
 opacity: 1;
   pointer-events: none;
-
+  font-family: 'Brygada 1918', serif;
   transition: opacity 150ms ease-in-out;
 }
